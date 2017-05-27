@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_multi_delete"
+        android:title="@string/menu_multi_delete"/>
+    <item 
+        android:id="@+id/menu_clear_user_dict" 
+        android:title="@string/menu_clear_user_dict"/>
+     <item 
+        android:id="@+id/menu_de_duplicate" 
+        android:title="@string/menu_de_duplicate"/>
+</menu>

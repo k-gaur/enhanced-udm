@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/long_press_edit"
+        android:title="@string/long_press_edit"/>
+    <item 
+        android:id="@+id/long_press_delete" 
+        android:title="@string/long_press_delete"/>
+    
+</menu>

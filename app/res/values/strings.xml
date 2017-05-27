@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Enhanced UDM</string>
+    <string name="menu_multi_delete">Delete multiple words</string>
+    <string name="menu_de_duplicate">De-duplicate dictionary</string>
+	<string name="menu_clear_user_dict">Clear user dictionary</string>
+	<string name="long_press_edit">Edit word</string>
+	<string name="long_press_delete">Delete word</string>
+	<string name="delete_selected">Delete selected words</string>
+	<string name="add_english_words">Add English Words</string>
+	<string name="add_hinglish_words">Add Hinglish Words</string>
+	<string name="add_eng_slang_words">Add English Slang Words</string>
+	<string name="add_eng_shorthand_words">Add Popular English Shorthand Words</string>
+	<string name="add_marathi_words">Add Marathi Words</string>
+	<string name="add_tamil_words">Add Tamil Words</string>
+	<string name="add_bengali_words">Add Bengali Words</string>
+	<string name="add_oriya_words">Add Oriya Words</string>
+	<string name="add_telugu_words">Add Telugu Words</string>
+	<string name="add_gujarati_words">Add Gujarati Words</string>
+	<string name="add_french_words">Add French Words</string>
+	<string name="add_urdu_words">Add Urdu Words</string>
+	<string name="add_arabic_words">Add Arabic Words</string>
+	<string name="add_spanish_words">Add Spanish Words</string>
+	<string name="add_german_words">Add German Words</string>
+	<string name="cancel">Cancel</string>
+	<string name="add">Add</string>
+	<string name="add_words_directions">Enter the new words into the text box separated by a space</string>
+	<string name="hint_add_words">Enter new word(s)</string>
+	<string name="add_new_words">Add new words into dictionary</string>
+	<string name="browse_edit_dict">Browse and edit dictionary</string>
+	<string name="restore_words">Restore words from text file</string>
+	<string name="backup_words">Backup words to text file</string>
+	<string name="import_whatsapp_words">Import words from WhatsApp into dictionary</string>
+	<string name="faq">Frequently Asked Questiona (FAQ)</string>
+	<string name="rate_app">Rate App on the Play Store</string>
+	<string name="credits">Who created this app?</string>
+	<string name="about">About this app</string>
+	<string name="add_words_list">Add commonly used words in different languages</string>
+	<string name="image_content_description">TODO</string>
+	
+</resources>
